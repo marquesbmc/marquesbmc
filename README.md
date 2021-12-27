@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Architecture Owner
 - 🌱 I’m currently learning Microservises, Quarkus and Microprofiles
 - 💖 I love Math, IOT, Develops and Convolutional Neural Network
-- 👽 I believe in ETs
+- 👽 I believe in intelligent life beyond Earth
 
 
 <div style="display: inline_block"><br>
