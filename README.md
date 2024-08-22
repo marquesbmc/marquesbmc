@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Architecture Owner
-- 🌱 I’m currently learning Microservises, Quarkus and Microprofiles
-- 💖 I love Math, IOT, Develops and Convolutional Neural Network
+- 🔭 I am currently working as a Software Architect
+- 🌱 I'm learning Microservices, Quarkus and Microprofiles
+- 💖 I love math, IOT, software development and Deep Learning, Reinforcement Learning and Transfer Learning
 - 👽 I believe in intelligent life beyond Earth
 
 
