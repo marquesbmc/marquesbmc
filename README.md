@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🔭 I am currently working as a Software Architect
-- 🌱 I'm learning Microservices, Quarkus and Microprofiles
-- 💖 I love math, IOT, software development and Deep Learning, Reinforcement Learning and Transfer Learning
-- 👽 I believe in intelligent life beyond Earth
+- 🔭 I am currently working as a Software Architect  
+- 🌱 I'm learning Microservices, Quarkus and Microprofiles  
+- 💖 I love math, IOT, software development and Deep Learning, Reinforcement Learning, and Neural Network Architectures  
+- 🚴 I enjoy riding gravel bikes in my free time  
+- 👽 I believe in intelligent life beyond Earth  
+
 
 
 <div style="display: inline_block"><br>
