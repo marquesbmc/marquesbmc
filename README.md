@@ -1,41 +1,53 @@
-### Hi there 👋
-- 🔭 I am currently working as a Software Architect  
-- 🌱 I'm learning Microservices, Quarkus and Microprofiles  
-- 💖 I love math, IOT, software development and Deep Learning, Reinforcement Learning, and Neural Network Architectures  
-- 🚴 I enjoy riding gravel bikes in my free time  
-- 👽 I believe in intelligent life beyond Earth  
+# Hi, I'm Bruno Marques 👋
 
+- 🔭 I currently work as a Solutions Architect
+- 👨‍🏫 I teach undergraduate and postgraduate courses in technology and software development
+- 🌱 I'm continuously expanding my knowledge of Java, software refactoring, and microservices
+- 💖 I'm passionate about mathematics, IoT, software development, deep learning, reinforcement learning, and neural network architectures
+- 🚴 I enjoy riding gravel bikes in my free time
+- 🏕️ I love camping and spending time in nature with my family
+- 👽 I believe in intelligent life beyond Earth
 
+---
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/marquesbmc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesbmc&layout=compact&langs_count=7&theme=blueberry"/>
+## Academic Background
 
+- 🎓 **PhD in Computational Sciences** — UERJ
+- 🎓 **Master’s Degree in Computational Sciences** — UERJ
+- 🎓 **Postgraduate Specialization in Software Engineering** — Estácio
+- 🎓 **Bachelor’s and Teaching Degrees in Mathematics** — UERJ
 
-<div style="display: inline_block"><br>
+---
 
-  <img align="center" alt="bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="bruno-Python" height="30" width="40" src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" />
-  <img align="center" alt="bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+## Technologies
 
-  <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Backend and Software Architecture
 
-  <img align="center" alt="bruno-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" alt="bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-    
- ##
-    
-<div> 
-  <a href = "mailto:marquesbmc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hlinkedin.com/in/bruno-marques-costa-27269060" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
- 
-  ![Snake animation](https://github.com/marquesbmc/marquesbmc/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="left">
+  <img alt="Java" title="Java" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img alt="Quarkus" title="Quarkus" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" />&nbsp;&nbsp;
+  <img alt="Spring" title="Spring" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</p>
 
+### Cloud Computing
 
+<p align="left">
+  <img alt="AWS" title="Amazon Web Services" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Microsoft Azure" title="Microsoft Azure" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</p>
 
+### Artificial Intelligence and Data Science
+
+<p align="left">
+  <img alt="Python" title="Python" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="TensorFlow" title="TensorFlow" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />&nbsp;&nbsp;
+  <img alt="Jupyter" title="Jupyter Notebook" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+</p>
+
+### Web Development
+
+<p align="left">
+  <img alt="JavaScript" title="JavaScript" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" title="TypeScript" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="CSS" title="CSS" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</p>
