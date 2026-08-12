@@ -3,7 +3,7 @@
 - 🔭 I currently work as a Solutions Architect
 - 👨‍🏫 I teach undergraduate and postgraduate courses in technology and software development
 - 🌱 I'm continuously expanding my knowledge of Java, software refactoring, and microservices
-- 💖 I'm passionate about mathematics, IoT, software development, deep learning, reinforcement learning, and neural network architectures
+- 💖 I'm passionate about mathematics, IoT, software development, deep learning and neural network architectures
 - 🚴 I enjoy riding gravel bikes in my free time
 - 🏕️ I love camping and spending time in nature with my family
 - 👽 I believe in intelligent life beyond Earth
