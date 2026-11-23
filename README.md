@@ -32,10 +32,8 @@
 ### Cloud Computing
 
 <p align="left">
-  <img alt="AWS" title="Amazon Web Services" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="AWS" title="Amazon Web Services" height="50" width="70" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/9/92/Amazonwebservices-original-wordmark.svg)" />&nbsp;&nbsp;
 
-  <img alt="AWS" title="Amazon Web Services" height="50" width="70" src=https://upload.wikimedia.org/wikipedia/commons/9/92/Amazonwebservices-original-wordmark.svg"
-  />&nbsp;&nbsp;
   <img alt="Microsoft Azure" title="Microsoft Azure" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </p>
 
